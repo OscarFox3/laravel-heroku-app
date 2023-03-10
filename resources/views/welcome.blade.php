@@ -36,7 +36,8 @@
                 </div>
 
             <div class="max-w-6xl mx-auto sm:px-6 lg:px-8">
-               <h1 style="color: white"> Laravel App </h1>
+               <h1 style="color: white"> GitHub Directory </h1>
+               <p> A public directory of GitHub authors. </p>
             </div>
         </div>
     </body>
